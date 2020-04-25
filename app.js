@@ -2,7 +2,7 @@ let { exec } = require('child_process');
 
 // Validasi : Lavalink file
 
-let lava = require(',/Lavalink.jar');
+let lava = require('./Lavalink.jar');
 if (lava === undefined) {
 console.log('[INFO] Melakukan Download terhadap Lavalink !');
 exec('wget https://github.com/Frederikam/Lavalink/releases/download/3.3.1/Lavalink.jar', (err, stdout, stderr) => {
