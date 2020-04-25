@@ -11,8 +11,8 @@ return console.log('[INFO] lavalink gagal di download!');
 } 
 else console.log('[INFO] lavalink berhasil di download!');
 
-let lava = require('./Lavalink.jar');
-if (lava === undefined) return console.log('[INFO] Sepertinya tidak ditemukan file Lavalink!');
+let lava1 = require('./Lavalink.jar');
+if (lava1 === undefined) return console.log('[INFO] Sepertinya tidak ditemukan file Lavalink!');
 });
 console.log('[INFO] Memulai untuk menjalankan Lavalink!');
 exec('java -jar Lavalink.jar', (err, stdout, stderr) => {
