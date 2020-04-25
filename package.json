@@ -1,8 +1,8 @@
 {
  "name": "lavahar",
  "version": "0.0.1",
- "description": "P"
- "main": "app.js"
+ "description": "P",
+ "main": "app.js",
  "scripts": {
   "start": "node ."
  },
