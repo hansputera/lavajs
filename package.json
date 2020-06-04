@@ -1,7 +1,7 @@
 {
  "name": "lavahar",
  "version": "0.0.1",
- "description": "P",
+ "description": "Khusus dilakukan pada OS Linux yang telah memenuhi kriteria",
  "main": "app.js",
  "scripts": {
   "start": "node ."
@@ -10,6 +10,7 @@
   "node":"12.x"
  },
  "dependencies": {
-  "child_process": "*"
+  "child_process": "*",
+  "os": "*"
  }
 }
