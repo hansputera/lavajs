@@ -2,6 +2,8 @@
 
 > WARNING: PASTIKAN JAVA SUDAH TERINSTALL DI PERANGKAT ANDA.
 
+**Java Download : [Click](https://www.java.com/en/download)**
+
 - `1.` **Ketik di command line : `git clone https://github.com/hansputera/lavahar`**
 - `2.` **Terus : `sudo apt install nodejs`**
 - `3.` **Lalu masuk ke DIR nya : `cd lavahar`**
